@@ -1,3 +1,18 @@
+## TrackMate: Your Ultimate Task and Habit Tracking Companion
+TrackMate is your all-in-one app designed to streamline your personal project management, helping you stay organized, focused, and productive. Whether you're tackling a major project or building new habits, TrackMate provides the tools you need to keep track of your tasks, monitor your progress, and achieve your goals with ease.
+
+**Key Features:**
+- Project Management: Create and manage multiple projects with ease. Keep all your tasks and subtasks organized and accessible in one place.
+- Task Tracking: Add tasks and subtasks to your projects, breaking down your goals into manageable steps. Mark tasks as complete and watch your progress unfold.
+- Habit Building: Develop new habits by associating them with your tasks and projects. Track your daily habits to ensure you're staying on course.
+- Activity Logging: Automatically log activities when tasks are marked complete, providing you with a detailed history of your achievements.
+- Visual Progress Indicators: Use intuitive visual aids to see your progress at a glance. Know exactly where you stand with your projects and what needs your attention next.
+- Customizable Views: Sort and filter tasks to focus on what's important. Customize your view to match your workflow and preferences.
+- User-Friendly Interface: Enjoy a clean, intuitive, and easy-to-navigate interface that makes managing your tasks and habits a breeze.
+- Mobile Access: Access your projects and tasks on the go, ensuring you stay productive no matter where you are.
+
+TrackMate is more than just a to-do list; it's a powerful tool that helps you turn your plans into reality. Stay on top of your projects, build lasting habits, and achieve your personal and professional goals with TrackMate. Your journey to a more organized and productive life starts here.
+
 ## Breakdown of the Use Case
 
 ### 1. Projects
